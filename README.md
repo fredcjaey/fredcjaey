@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fredcjaey
 - 👀 I’m interested in ...design and programming
-- 🌱 I’m currently learning ...U1/UX and python
+- 🌱 I’m currently learning ...UI/UX and python
 - 💞️ I’m looking to collaborate on ...projects
 - 📫 How to reach me ...chijiokefrederick92@gmail.com
 
