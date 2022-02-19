@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fredcjaey
+- 👋 Hi, I’m @Cjaey 
 - 👀 I’m interested in ...design and programming
 - 🌱 I’m currently learning ...UI/UX and python
 - 💞️ I’m looking to collaborate on ...projects
